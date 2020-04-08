@@ -1,0 +1,15 @@
+{
+    "FirstName": "Smita",
+    "LastName": "D",
+    "Address": "Bangalore Malleshpaly",
+    "Email": "smita@gmail.com",
+    "addForm": {
+      "add1": "Hubli",
+      "add2": "Buxr"
+    },
+    "parts": {
+      "area": "617",
+      "exchange": "775",
+      "subscriber": "6873"
+    }
+  }
